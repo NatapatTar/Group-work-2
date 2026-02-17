@@ -3,7 +3,6 @@
 ## Member
 - s670204151179 Natapat Ngernhoy s6702041511179@email.kmutnb.ac.th
 - s6702041511039 Suphaporn Toomthong s6702041511039@email.kmutnb.ac.th
-- s6702041511268 Narapat Thitichunhakun s6702041511268@email.kmutnb.ac.th
 
 ## Enviroment
 ```sh
