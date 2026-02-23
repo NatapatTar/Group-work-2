@@ -16,6 +16,6 @@ cp env.simple .env
 
 ## Running services
 ```sh
-docker compose -f docker-compose.yaml up # monitoring
-docker compose -f docker-compose.yaml up -d # background
+docker compose docker-compose.yaml up # monitoring
+docker compose docker-compose.yaml up -d # background
 ```
